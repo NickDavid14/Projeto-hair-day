@@ -6,5 +6,9 @@ import "./styles/global.css";
 import "./styles/form.css";
 import "./styles/schedule.css";
 
-import  dayjs  from "dayjs";
-console.log(dayjs().format("DD/MM/YYYY"));
+
+
+
+import "./modules/form/SUBMIT.JS";
+import "./modules/page-load.js";
+import "./modules/form/date-change.js";
